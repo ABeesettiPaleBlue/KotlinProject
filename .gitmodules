@@ -1,0 +1,3 @@
+[submodule "CommonLibrary"]
+	path = CommonLibrary
+	url = git@paleblue:ABeesettiPaleBlue/CommonLibrary.git

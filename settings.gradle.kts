@@ -28,4 +28,7 @@ dependencyResolutionManagement {
     }
 }
 
+
 include(":composeApp")
+include(":shared")
+project(":shared").projectDir = file("CommonLibrary/shared")
